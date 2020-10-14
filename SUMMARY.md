@@ -19,8 +19,8 @@
 
 * [南德试验再出发（代序）](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/README.md)
   * [1984.5 论中国特色的社会主义学说和我们的历史使命](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/untitled.md)
-  * [1985.2.28 拳拳赤子心 — 记万县市中德实业开发总公司总经理牟其中](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/1985.2.28-quan-quan-chi-zi-xin-ji-wan-xian-shi-zhong-de-shi-ye-kai-fa-zong-gong-si-zong-jing-li-mou.md)
   * [1985.2 从收容所出来的开拓者](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/1985.-cong-shou-rong-suo-chu-lai-de-kai-tuo-zhe.md)
+  * [1985.2.28 拳拳赤子心 — 记万县市中德实业开发总公司总经理牟其中](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/1985.2.28-quan-quan-chi-zi-xin-ji-wan-xian-shi-zhong-de-shi-ye-kai-fa-zong-gong-si-zong-jing-li-mou.md)
   * [1993.11.20 致《南德视界》编辑部 -  读者史剑](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/1993.11.20.md)
   * [1993.12上旬，让历史作证 — 袁光厚访谈录](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/1993.12-shang-rang-li-shi-zuo-zheng-yuan-guang-hou-fang-tan-lu.md)
   * [1993.12中旬，我可以作证 - 王青访谈录](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/1993.12-zhong-wo-ke-yi-zuo-zheng-wang-qing-fang-tan-lu.md)
