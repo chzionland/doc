@@ -4,13 +4,16 @@
 
 ## 《乐观的中国经济》- 牟其中演讲文集 <a id="optimistic-economy"></a>
 
-* [乐观的中国经济 \(自序\)](optimistic-economy/chu-ban-shuo-ming/README.md)
-  * [一度理论和第四产业](optimistic-economy/chu-ban-shuo-ming/yi-du-li-lun-he-di-si-chan-ye/README.md)
-    * [探索与“一度理论”相适应的管理思想](optimistic-economy/chu-ban-shuo-ming/yi-du-li-lun-he-di-si-chan-ye/tan-suo-yu-yi-du-li-lun-xiang-kuo-ying-de-guan-li-si-xiang.md)
-    * [海日生残夜 山花傲晓霜](optimistic-economy/chu-ban-shuo-ming/yi-du-li-lun-he-di-si-chan-ye/hai-ri-sheng-can-ye-shan-hua-ao-xiao-shuang.md)
-    * [也说“不找市长找市场”](optimistic-economy/chu-ban-shuo-ming/yi-du-li-lun-he-di-si-chan-ye/ye-shuo-bu-zhao-shi-chang-zhao-shi-chang.md)
-    * [全新的产业形式与全新的发展理论](optimistic-economy/chu-ban-shuo-ming/yi-du-li-lun-he-di-si-chan-ye/quan-xin-de-chan-ye-xing-shi-yu-quan-xin-de-fa-zhan-li-lun.md)
-    * [创立劳动合作制度与第四产业公司，将南德集团建成世界级大型企业](optimistic-economy/chu-ban-shuo-ming/yi-du-li-lun-he-di-si-chan-ye/chuang-li-lao-dong-he-zuo-zhi-du-yu-di-si-chan-ye-gong-si-jiang-nan-de-ji-tuan-jian-cheng-shi-jie-ji.md)
+* [乐观的中国经济 \(自序\)](optimistic-economy/chu-ban-shuo-ming.md)
+
+---
+
+* [一度理论和第四产业](yi-du-li-lun-he-di-si-chan-ye/README.md)
+  * [探索与“一度理论”相适应的管理思想](yi-du-li-lun-he-di-si-chan-ye/tan-suo-yu-yi-du-li-lun-xiang-kuo-ying-de-guan-li-si-xiang.md)
+  * [海日生残夜 山花傲晓霜](yi-du-li-lun-he-di-si-chan-ye/hai-ri-sheng-can-ye-shan-hua-ao-xiao-shuang.md)
+  * [也说“不找市长找市场”](yi-du-li-lun-he-di-si-chan-ye/ye-shuo-bu-zhao-shi-chang-zhao-shi-chang.md)
+  * [全新的产业形式与全新的发展理论](yi-du-li-lun-he-di-si-chan-ye/quan-xin-de-chan-ye-xing-shi-yu-quan-xin-de-fa-zhan-li-lun.md)
+  * [创立劳动合作制度与第四产业公司，将南德集团建成世界级大型企业](yi-du-li-lun-he-di-si-chan-ye/chuang-li-lao-dong-he-zuo-zhi-du-yu-di-si-chan-ye-gong-si-jiang-nan-de-ji-tuan-jian-cheng-shi-jie-ji.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
