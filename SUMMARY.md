@@ -8,15 +8,27 @@
 
 ---
 
-* [一度理论和第四产业](yi-du-li-lun-he-di-si-chan-ye/README.md)
-  * [探索与“一度理论”相适应的管理思想](yi-du-li-lun-he-di-si-chan-ye/tan-suo-yu-yi-du-li-lun-xiang-kuo-ying-de-guan-li-si-xiang.md)
-  * [海日生残夜 山花傲晓霜](yi-du-li-lun-he-di-si-chan-ye/hai-ri-sheng-can-ye-shan-hua-ao-xiao-shuang.md)
-  * [也说“不找市长找市场”](yi-du-li-lun-he-di-si-chan-ye/ye-shuo-bu-zhao-shi-chang-zhao-shi-chang.md)
-  * [全新的产业形式与全新的发展理论](yi-du-li-lun-he-di-si-chan-ye/quan-xin-de-chan-ye-xing-shi-yu-quan-xin-de-fa-zhan-li-lun.md)
-  * [创立劳动合作制度与第四产业公司，将南德集团建成世界级大型企业](yi-du-li-lun-he-di-si-chan-ye/chuang-li-lao-dong-he-zuo-zhi-du-yu-di-si-chan-ye-gong-si-jiang-nan-de-ji-tuan-jian-cheng-shi-jie-ji.md)
-  * [第四产业的起源和现实的应用](yi-du-li-lun-he-di-si-chan-ye/di-si-chan-ye-de-qi-yuan-he-xian-shi-de-ying-yong.md)
-  * [掀起全面国际化高潮，切实抓好1996年具体业务工作](yi-du-li-lun-he-di-si-chan-ye/xian-qi-quan-mian-guo-ji-hua-gao-chao-qie-shi-zhua-hao-1996-nian-ju-ti-ye-wu-gong-zuo.md)
-  * [企业要为科技成果产业化出力](yi-du-li-lun-he-di-si-chan-ye/qi-ye-yao-wei-ke-ji-cheng-guo-chan-ye-hua-chu-li.md)
+* [1992 .10.12一度理论和第四产业](yi-du-li-lun-he-di-si-chan-ye/README.md)
+  * [1993.9.17探索与“一度理论”相适应的管理思想](yi-du-li-lun-he-di-si-chan-ye/tan-suo-yu-yi-du-li-lun-xiang-kuo-ying-de-guan-li-si-xiang.md)
+  * [1994.5.30海日生残夜 山花傲晓霜](yi-du-li-lun-he-di-si-chan-ye/hai-ri-sheng-can-ye-shan-hua-ao-xiao-shuang.md)
+  * [1994.10.15也说“不找市长找市场”](yi-du-li-lun-he-di-si-chan-ye/ye-shuo-bu-zhao-shi-chang-zhao-shi-chang.md)
+  * [1994.10全新的产业形式与全新的发展理论](yi-du-li-lun-he-di-si-chan-ye/quan-xin-de-chan-ye-xing-shi-yu-quan-xin-de-fa-zhan-li-lun.md)
+  * [1995.1.20创立劳动合作制度与第四产业公司，将南德集团建成世界级大型企业](yi-du-li-lun-he-di-si-chan-ye/chuang-li-lao-dong-he-zuo-zhi-du-yu-di-si-chan-ye-gong-si-jiang-nan-de-ji-tuan-jian-cheng-shi-jie-ji.md)
+  * [1995.10.6第四产业的起源和现实的应用](yi-du-li-lun-he-di-si-chan-ye/di-si-chan-ye-de-qi-yuan-he-xian-shi-de-ying-yong.md)
+  * [1996.2.2掀起全面国际化高潮，切实抓好1996年具体业务工作](yi-du-li-lun-he-di-si-chan-ye/xian-qi-quan-mian-guo-ji-hua-gao-chao-qie-shi-zhua-hao-1996-nian-ju-ti-ye-wu-gong-zuo.md)
+  * [1996.3.14企业要为科技成果产业化出力](yi-du-li-lun-he-di-si-chan-ye/qi-ye-yao-wei-ke-ji-cheng-guo-chan-ye-hua-chu-li.md)
+  * [1996.4.25改变传统的发展模式，实现利润、资产、经营规模三项指标几何级数式的增长](yi-du-li-lun-he-di-si-chan-ye/1996.4.25-gai-bian-chuan-tong-de-fa-zhan-mo-shi-shi-xian-li-run-zi-chan-jing-ying-gui-mo-san-xiang-z.md)
+* [中美俄经济大三角](zhong-meiejing-ji-da-san-jiao/README.md)
+  * [1989.7 历史性的机会和我们的选择](zhong-meiejing-ji-da-san-jiao/1989.7-li-shi-xing-de-ji-hui-he-wo-men-de-xuan-ze.md)
+  * [1993.6.8 为把满洲里建成东北亚经济中心城市而奋斗](zhong-meiejing-ji-da-san-jiao/1993.6.8-wei-ba-man-zhou-li-jian-cheng-dong-bei-ya-jing-ji-zhong-xin-cheng-shi-er-fen-dou.md)
+  * [1993.8.18不可取代的经济战略要塞——满洲里](zhong-meiejing-ji-da-san-jiao/1993.8.18-bu-ke-qu-dai-de-jing-ji-zhan-lve-yao-sai-man-zhou-li.md)
+  * [1996.5.8中美俄经济大三角](zhong-meiejing-ji-da-san-jiao/1996.5.8-zhong-meiejing-ji-da-san-jiao.md)
+  * [1993.10我的梦——华人“网络”经济，在全世界的兴起](zhong-meiejing-ji-da-san-jiao/1993.10-wo-de-meng-hua-ren-wang-luo-jing-ji-zai-quan-shi-jie-de-xing-qi.md)
+  * [1994.2.26认清中美俄大三角的世界经济格局，争取在我国经济走向世界进程中发挥应有的作用](zhong-meiejing-ji-da-san-jiao/1994.2.26-ren-qing-zhong-meieda-san-jiao-de-shi-jie-jing-ji-ge-ju-zheng-qu-zai-wo-guo-jing-ji-zou-xi.md)
+  * [94＇南德国际经济奥运热身赛——1995新年献辞](zhong-meiejing-ji-da-san-jiao/94-nan-de-guo-ji-jing-ji-ao-yun-re-shen-sai-1995-xin-nian-xian-ci.md)
+  * [1995.7.1人类历史上最大的一次商业机会](zhong-meiejing-ji-da-san-jiao/1995.7.1-ren-lei-li-shi-shang-zui-da-de-yi-ci-shang-ye-ji-hui.md)
+  * [1995.8.10在巨大的商业机会面前，我们首先选择了日本](zhong-meiejing-ji-da-san-jiao/1995.8.10-zai-ju-da-de-shang-ye-ji-hui-mian-qian-wo-men-shou-xian-xuan-ze-le-ri-ben.md)
+  * [1995.10.23向日本经济界的朋友进一言](zhong-meiejing-ji-da-san-jiao/1995.10.23-xiang-ri-ben-jing-ji-jie-de-peng-you-jin-yi-yan.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
