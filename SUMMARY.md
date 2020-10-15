@@ -30,9 +30,11 @@
   * [1995.7.1人类历史上最大的一次商业机会](zhong-meiejing-ji-da-san-jiao/1995.7.1-ren-lei-li-shi-shang-zui-da-de-yi-ci-shang-ye-ji-hui.md)
   * [1995.8.10在巨大的商业机会面前，我们首先选择了日本](zhong-meiejing-ji-da-san-jiao/1995.8.10-zai-ju-da-de-shang-ye-ji-hui-mian-qian-wo-men-shou-xian-xuan-ze-le-ri-ben.md)
   * [1995.10.23向日本经济界的朋友进一言](zhong-meiejing-ji-da-san-jiao/1995.10.23-xiang-ri-ben-jing-ji-jie-de-peng-you-jin-yi-yan.md)
-  * [南德经济大桥对接于一九九六——1996年新年寄语](zhong-meiejing-ji-da-san-jiao/nan-de-jing-ji-da-qiao-dui-jie-yu-yi-jiu-jiu-liu-1996-nian-xin-nian-ji-yu.md)
+  * [1996.1 新年寄语 — 南德经济大桥对接于一九九六](zhong-meiejing-ji-da-san-jiao/nan-de-jing-ji-da-qiao-dui-jie-yu-yi-jiu-jiu-liu-1996-nian-xin-nian-ji-yu.md)
   * [1996.2.20各走一段路](zhong-meiejing-ji-da-san-jiao/1996.2.20-ge-zou-yi-duan-lu.md)
   * [1996.2.22答美国记者问](zhong-meiejing-ji-da-san-jiao/1996.2.22-da-mei-guo-ji-zhe-wen.md)
+* [人才资本论](ren-cai-zi-ben-lun/README.md)
+  * [1991.9.29人才就是资本](ren-cai-zi-ben-lun/1991.9.29-ren-cai-jiu-shi-zi-ben.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
