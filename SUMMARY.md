@@ -8,7 +8,8 @@
 
 ---
 
-* [1992 .10.12一度理论和第四产业](yi-du-li-lun-he-di-si-chan-ye/README.md)
+* [一度理论和第四产业](yi-du-li-lun-he-di-si-chan-ye/README.md)
+  * [1992 .10.12 没有必要从头开始](yi-du-li-lun-he-di-si-chan-ye/1992-.10.12-mei-you-bi-yao-cong-tou-kai-shi.md)
   * [1993.9.17探索与“一度理论”相适应的管理思想](yi-du-li-lun-he-di-si-chan-ye/tan-suo-yu-yi-du-li-lun-xiang-kuo-ying-de-guan-li-si-xiang.md)
   * [1994.5.30海日生残夜 山花傲晓霜](yi-du-li-lun-he-di-si-chan-ye/hai-ri-sheng-can-ye-shan-hua-ao-xiao-shuang.md)
   * [1994.10.15也说“不找市长找市场”](yi-du-li-lun-he-di-si-chan-ye/ye-shuo-bu-zhao-shi-chang-zhao-shi-chang.md)
