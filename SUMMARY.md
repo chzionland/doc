@@ -14,6 +14,9 @@
   * [也说“不找市长找市场”](yi-du-li-lun-he-di-si-chan-ye/ye-shuo-bu-zhao-shi-chang-zhao-shi-chang.md)
   * [全新的产业形式与全新的发展理论](yi-du-li-lun-he-di-si-chan-ye/quan-xin-de-chan-ye-xing-shi-yu-quan-xin-de-fa-zhan-li-lun.md)
   * [创立劳动合作制度与第四产业公司，将南德集团建成世界级大型企业](yi-du-li-lun-he-di-si-chan-ye/chuang-li-lao-dong-he-zuo-zhi-du-yu-di-si-chan-ye-gong-si-jiang-nan-de-ji-tuan-jian-cheng-shi-jie-ji.md)
+  * [第四产业的起源和现实的应用](yi-du-li-lun-he-di-si-chan-ye/di-si-chan-ye-de-qi-yuan-he-xian-shi-de-ying-yong.md)
+  * [掀起全面国际化高潮，切实抓好1996年具体业务工作](yi-du-li-lun-he-di-si-chan-ye/xian-qi-quan-mian-guo-ji-hua-gao-chao-qie-shi-zhua-hao-1996-nian-ju-ti-ye-wu-gong-zuo.md)
+  * [企业要为科技成果产业化出力](yi-du-li-lun-he-di-si-chan-ye/qi-ye-yao-wei-ke-ji-cheng-guo-chan-ye-hua-chu-li.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
