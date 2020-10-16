@@ -35,6 +35,15 @@
   * [1996.2.22答美国记者问](zhong-meiejing-ji-da-san-jiao/1996.2.22-da-mei-guo-ji-zhe-wen.md)
 * [人才资本论](ren-cai-zi-ben-lun/README.md)
   * [1991.9.29人才就是资本](ren-cai-zi-ben-lun/1991.9.29-ren-cai-jiu-shi-zi-ben.md)
+  * [1992.3.12我劝天公重抖擞 不拘一格降人才](ren-cai-zi-ben-lun/1992.3.12-wo-quan-tian-gong-zhong-dou-sou-bu-ju-yi-ge-jiang-ren-cai.md)
+  * [1995.9.25白猫黑猫抓住老鼠就是好猫——再论“人才就是资本”](ren-cai-zi-ben-lun/1995.9.25-bai-mao-hei-mao-zhua-zhu-lao-shu-jiu-shi-hao-mao-zai-lun-ren-cai-jiu-shi-zi-ben.md)
+  * [1995.10.9十步之内，必有芳草——三论“人才就是资本”](ren-cai-zi-ben-lun/1995.10.9-shi-bu-zhi-nei-bi-you-fang-cao-san-lun-ren-cai-jiu-shi-zi-ben.md)
+  * [1995.10.16武二郎开店就一定对吗？---四论“人才就是资本”](ren-cai-zi-ben-lun/1995.10.16-wu-er-lang-kai-dian-jiu-yi-ding-dui-ma-si-lun-ren-cai-jiu-shi-zi-ben.md)
+  * [1995.10.30廉价无好员---五论“人才就是资本”](ren-cai-zi-ben-lun/1995.10.30-lian-jia-wu-hao-yuan-wu-lun-ren-cai-jiu-shi-zi-ben.md)
+  * [1995.10.6君子喻于义 小人喻于利——六论“人才就是资本”](ren-cai-zi-ben-lun/1995.10.6-jun-zi-yu-yu-yi-xiao-ren-yu-yu-li-liu-lun-ren-cai-jiu-shi-zi-ben.md)
+  * [1995.11.13海纳百川 有容乃大——七论“人才就是资本”](ren-cai-zi-ben-lun/1995.11.13-hai-na-bai-chuan-you-rong-nai-da-qi-lun-ren-cai-jiu-shi-zi-ben.md)
+  * [1995.11.26归来吧，海外游子——八论“人才就是资本”](ren-cai-zi-ben-lun/1995.11.26-gui-lai-ba-hai-wai-you-zi-ba-lun-ren-cai-jiu-shi-zi-ben.md)
+  * [1995.8.19集团的组织管理思想应该有一个质的变化](ren-cai-zi-ben-lun/1995.8.19-ji-tuan-de-zu-zhi-guan-li-si-xiang-ying-gai-you-yi-ge-zhi-de-bian-hua.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
