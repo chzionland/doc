@@ -47,6 +47,9 @@
   * [1995.4.13端正学风 尊重传统伦理建立南德用人标准和用人制度](ren-cai-zi-ben-lun/1995.4.13-duan-zheng-xue-feng-zun-zhong-chuan-tong-lun-li-jian-li-nan-de-yong-ren-biao-zhun-he-yong.md)
   * [1996.1.15关于平稳分蘖](ren-cai-zi-ben-lun/1996.1.15-guan-yu-ping-wen-fen-nie.md)
   * [1996.3.8高老太爷的悲剧——再论“平稳分蘖”](ren-cai-zi-ben-lun/1996.3.8-gao-lao-tai-ye-de-bei-ju-zai-lun-ping-wen-fen-nie.md)
+  * [1996.3.18全新的增长模式——三论“平稳分蘖”](ren-cai-zi-ben-lun/1996.3.18-quan-xin-de-zeng-chang-mo-shi-san-lun-ping-wen-fen-nie.md)
+  * [1996.4.28我们为什么追求公有化？——四论“平稳分蘖”](ren-cai-zi-ben-lun/1996.4.28-wo-men-wei-shen-me-zhui-qiu-gong-you-hua-si-lun-ping-wen-fen-nie.md)
+  * [1996.4.23智慧文明时代的思考](ren-cai-zi-ben-lun/1996.4.23-zhi-hui-wen-ming-shi-dai-de-si-kao.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
