@@ -44,7 +44,7 @@
   * [1995.11.13海纳百川 有容乃大——七论“人才就是资本”](ren-cai-zi-ben-lun/1995.11.13-hai-na-bai-chuan-you-rong-nai-da-qi-lun-ren-cai-jiu-shi-zi-ben.md)
   * [1995.11.26归来吧，海外游子——八论“人才就是资本”](ren-cai-zi-ben-lun/1995.11.26-gui-lai-ba-hai-wai-you-zi-ba-lun-ren-cai-jiu-shi-zi-ben.md)
   * [1995.8.19集团的组织管理思想应该有一个质的变化](ren-cai-zi-ben-lun/1995.8.19-ji-tuan-de-zu-zhi-guan-li-si-xiang-ying-gai-you-yi-ge-zhi-de-bian-hua.md)
-  * [1995.4.13端正学风 尊重传统伦理建立南德用人标准和用人制度](ren-cai-zi-ben-lun/1995.4.13-duan-zheng-xue-feng-zun-zhong-chuan-tong-lun-li-jian-li-nan-de-yong-ren-biao-zhun-he-yong.md)
+  * [1995.4.13端正学风，尊重传统伦理建立南德用人标准和用人制度](ren-cai-zi-ben-lun/1995.4.13-duan-zheng-xue-feng-zun-zhong-chuan-tong-lun-li-jian-li-nan-de-yong-ren-biao-zhun-he-yong.md)
   * [1996.1.15关于平稳分蘖](ren-cai-zi-ben-lun/1996.1.15-guan-yu-ping-wen-fen-nie.md)
   * [1996.3.8高老太爷的悲剧——再论“平稳分蘖”](ren-cai-zi-ben-lun/1996.3.8-gao-lao-tai-ye-de-bei-ju-zai-lun-ping-wen-fen-nie.md)
   * [1996.3.18全新的增长模式——三论“平稳分蘖”](ren-cai-zi-ben-lun/1996.3.18-quan-xin-de-zeng-chang-mo-shi-san-lun-ping-wen-fen-nie.md)
