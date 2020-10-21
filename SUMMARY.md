@@ -50,7 +50,8 @@
   * [1996.3.18全新的增长模式——三论“平稳分蘖”](ren-cai-zi-ben-lun/1996.3.18-quan-xin-de-zeng-chang-mo-shi-san-lun-ping-wen-fen-nie.md)
   * [1996.4.28我们为什么追求公有化？——四论“平稳分蘖”](ren-cai-zi-ben-lun/1996.4.28-wo-men-wei-shen-me-zhui-qiu-gong-you-hua-si-lun-ping-wen-fen-nie.md)
   * [1996.4.23智慧文明时代的思考](ren-cai-zi-ben-lun/1996.4.23-zhi-hui-wen-ming-shi-dai-de-si-kao.md)
-* [儒商文化](ru-shang-wen-hua.md)
+* [儒商文化](ru-shang-wen-hua/README.md)
+  * [Untitled](ru-shang-wen-hua/untitled.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
