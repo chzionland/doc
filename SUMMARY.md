@@ -67,6 +67,7 @@
   * [1994.8.1 商品社会离不开伦理道德](ru-shang-wen-hua/1994.8.1-shang-pin-she-hui-li-bu-kai-lun-li-dao-de.md)
   * [1994.8.18 向腐朽文化宣战 更坚定地站在社会主义的土地上](ru-shang-wen-hua/1994.8.18-xiang-fu-xiu-wen-hua-xuan-zhan-geng-jian-ding-di-zhan-zai-she-hui-zhu-yi-de-tu-di-shang.md)
   * [1995.3.18 让南德的“视界”注视到世界的每一个角落——祝贺《南德视界》创刊200期](ru-shang-wen-hua/untitled-1.md)
+  * [1995.8.23 高举爱国、爱党、爱社会主义旗帜，是历史对南德的昭示](ru-shang-wen-hua/1995.8.23-gao-ju-ai-guo-ai-dang-ai-she-hui-zhu-yi-qi-zhi-shi-li-shi-dui-nan-de-de-zhao-shi.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
