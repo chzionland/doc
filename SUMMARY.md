@@ -66,7 +66,7 @@
   * [1994.6.18 AC米兰：你输掉的不仅仅是一分](ru-shang-wen-hua/1994.6.18-ac-mi-lan-ni-shu-diao-de-bu-jin-jin-shi-yi-fen.md)
   * [1994.8.1 商品社会离不开伦理道德](ru-shang-wen-hua/1994.8.1-shang-pin-she-hui-li-bu-kai-lun-li-dao-de.md)
   * [1994.8.18 向腐朽文化宣战 更坚定地站在社会主义的土地上](ru-shang-wen-hua/1994.8.18-xiang-fu-xiu-wen-hua-xuan-zhan-geng-jian-ding-di-zhan-zai-she-hui-zhu-yi-de-tu-di-shang.md)
-  * [Untitled](ru-shang-wen-hua/untitled-1.md)
+  * [1995.3.18 让南德的“视界”注视到世界的每一个角落——祝贺《南德视界》创刊200期](ru-shang-wen-hua/untitled-1.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
