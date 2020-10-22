@@ -70,6 +70,7 @@
   * [1995.8.23 高举爱国、爱党、爱社会主义旗帜，是历史对南德的昭示](ru-shang-wen-hua/1995.8.23-gao-ju-ai-guo-ai-dang-ai-she-hui-zhu-yi-qi-zhi-shi-li-shi-dui-nan-de-de-zhao-shi.md)
 * [社会主义市场经济](she-hui-zhu-yi-shi-chang-jing-ji/README.md)
   * [1984.5.8 论中国特色的社会主义学说和我们的历史使命（提 纲）](she-hui-zhu-yi-shi-chang-jing-ji/1984.5.8-lun-zhong-guo-te-se-de-she-hui-zhu-yi-xue-shuo-he-wo-men-de-li-shi-shi-ming-ti-gang.md)
+  * [1985.4.25 让我们与这个飞旋的时代同步](she-hui-zhu-yi-shi-chang-jing-ji/1985.4.25-rang-wo-men-yu-zhe-ge-fei-xuan-de-shi-dai-tong-bu.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
