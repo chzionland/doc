@@ -95,3 +95,7 @@
   * [2013.3 南德智慧经济试验报告（之三）](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/2013.3-nan-de-zhi-hui-jing-ji-shi-yan-bao-gao-zhi-san.md)
   * [2014.4 智慧文明生产方式及其发现过程](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/2014.4-zhi-hui-wen-ming-sheng-chan-fang-shi-ji-qi-fa-xian-guo-cheng.md)
 
+## 业务介绍和项目案例
+
+* [《中俄两国“全面易货型经济”长江计划》](ye-wu-jie-shao-he-xiang-mu-an-li/zhongeliang-guo-quan-mian-yi-huo-xing-jing-ji-chang-jiang-ji-hua.md)
+
