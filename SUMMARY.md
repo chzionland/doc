@@ -76,6 +76,7 @@
   * [1990.6.11 银行就是商店](she-hui-zhu-yi-shi-chang-jing-ji/1990.6.11-yin-hang-jiu-shi-shang-dian.md)
   * [1991.6.3 为搞活大中型企业服务，振兴社会主义经济——祝贺《南德视界》创刊一周年](she-hui-zhu-yi-shi-chang-jing-ji/1991.6.3-wei-gao-huo-da-zhong-xing-qi-ye-fu-wu-zhen-xing-she-hui-zhu-yi-jing-ji-zhu-he-nan-de-shi-ji.md)
   * [1991.12 社会主义市场经济的初步探索——南德经济集四十二年发展的理论与实践](she-hui-zhu-yi-shi-chang-jing-ji/1991.12-she-hui-zhu-yi-shi-chang-jing-ji-de-chu-bu-tan-suo-nan-de-jing-ji-ji-si-shi-er-nian-fa-zhan.md)
+  * [1992.6.12 自古华山一条路——写在中华腾飞时](she-hui-zhu-yi-shi-chang-jing-ji/1992.6.12-zi-gu-hua-shan-yi-tiao-lu-xie-zai-zhong-hua-teng-fei-shi.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
