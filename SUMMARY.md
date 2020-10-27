@@ -78,6 +78,7 @@
   * [1992.6.12 自古华山一条路——写在中华腾飞时](she-hui-zhu-yi-shi-chang-jing-ji/1992.6.12-zi-gu-hua-shan-yi-tiao-lu-xie-zai-zhong-hua-teng-fei-shi.md)
   * [1992.10.23 关于当前的形势和任务](she-hui-zhu-yi-shi-chang-jing-ji/1992.10.23-guan-yu-dang-qian-de-xing-shi-he-ren-wu.md)
   * [1993.3.7 市场经济是法制经济](she-hui-zhu-yi-shi-chang-jing-ji/1993.3.7-shi-chang-jing-ji-shi-fa-zhi-jing-ji.md)
+  * [1993.3.31 寻找新思路](she-hui-zhu-yi-shi-chang-jing-ji/1993.3.31-xun-zhao-xin-si-lu.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
