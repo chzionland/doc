@@ -79,6 +79,7 @@
   * [1992.10.23 关于当前的形势和任务](she-hui-zhu-yi-shi-chang-jing-ji/1992.10.23-guan-yu-dang-qian-de-xing-shi-he-ren-wu.md)
   * [1993.3.7 市场经济是法制经济](she-hui-zhu-yi-shi-chang-jing-ji/1993.3.7-shi-chang-jing-ji-shi-fa-zhi-jing-ji.md)
   * [1993.3.31 寻找新思路](she-hui-zhu-yi-shi-chang-jing-ji/1993.3.31-xun-zhao-xin-si-lu.md)
+  * [1993.6.15 抓住机遇 将转换机制的历史重任程式化](she-hui-zhu-yi-shi-chang-jing-ji/1993.6.15-zhua-zhu-ji-yu-jiang-zhuan-huan-ji-zhi-de-li-shi-zhong-ren-cheng-shi-hua.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
