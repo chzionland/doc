@@ -88,6 +88,7 @@
   * [1995.8.10 关于“国有资产流失”](she-hui-zhu-yi-shi-chang-jing-ji/1995.8.10-guan-yu-guo-you-zi-chan-liu-shi.md)
   * [1995.8.10 公有制的概念需要修正](she-hui-zhu-yi-shi-chang-jing-ji/1995.8.10-gong-you-zhi-de-gai-nian-xu-yao-xiu-zheng.md)
   * [1995.8.30 实施“三转一化”，搞活大中型企业](she-hui-zhu-yi-shi-chang-jing-ji/1995.8.30-shi-shi-san-zhuan-yi-hua-gao-huo-da-zhong-xing-qi-ye.md)
+  * [1995.11.30 正确认识市场经济和市场经济中的管理原则](she-hui-zhu-yi-shi-chang-jing-ji/1995.11.30-zheng-que-ren-shi-shi-chang-jing-ji-he-shi-chang-jing-ji-zhong-de-guan-li-yuan-ze.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
