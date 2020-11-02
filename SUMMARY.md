@@ -82,6 +82,7 @@
   * [1993.6.15 抓住机遇 将转换机制的历史重任程式化](she-hui-zhu-yi-shi-chang-jing-ji/1993.6.15-zhua-zhu-ji-yu-jiang-zhuan-huan-ji-zhi-de-li-shi-zhong-ren-cheng-shi-hua.md)
   * [1993.11.25 用小平同志的经济发展思想指导实践](she-hui-zhu-yi-shi-chang-jing-ji/1993.11.25-yong-xiao-ping-tong-zhi-de-jing-ji-fa-zhan-si-xiang-zhi-dao-shi-jian.md)
   * [1994.4.18 两害相权取其轻——失业与通货膨胀的选择](she-hui-zhu-yi-shi-chang-jing-ji/untitled.md)
+  * [1994.8.19 坚持社会主义 发展市场经济](she-hui-zhu-yi-shi-chang-jing-ji/1994.8.19-jian-chi-she-hui-zhu-yi-fa-zhan-shi-chang-jing-ji.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
