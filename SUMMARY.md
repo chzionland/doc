@@ -86,6 +86,7 @@
   * [1995.5.2 建立终身职业企业家队伍，推动建立现代企业制度的事业](she-hui-zhu-yi-shi-chang-jing-ji/1995.5.2-jian-li-zhong-shen-zhi-ye-qi-ye-jia-dui-wu-tui-dong-jian-li-xian-dai-qi-ye-zhi-du-de-shi-ye.md)
   * [1995.8.10 中国不会出现政治危机和经济危机](she-hui-zhu-yi-shi-chang-jing-ji/1995.8.10-zhong-guo-bu-hui-chu-xian-zheng-zhi-wei-ji-he-jing-ji-wei-ji.md)
   * [1995.8.10 关于“国有资产流失”](she-hui-zhu-yi-shi-chang-jing-ji/1995.8.10-guan-yu-guo-you-zi-chan-liu-shi.md)
+  * [1995.8.10 公有制的概念需要修正](she-hui-zhu-yi-shi-chang-jing-ji/1995.8.10-gong-you-zhi-de-gai-nian-xu-yao-xiu-zheng.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
