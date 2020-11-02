@@ -83,6 +83,7 @@
   * [1993.11.25 用小平同志的经济发展思想指导实践](she-hui-zhu-yi-shi-chang-jing-ji/1993.11.25-yong-xiao-ping-tong-zhi-de-jing-ji-fa-zhan-si-xiang-zhi-dao-shi-jian.md)
   * [1994.4.18 两害相权取其轻——失业与通货膨胀的选择](she-hui-zhu-yi-shi-chang-jing-ji/untitled.md)
   * [1994.8.19 坚持社会主义 发展市场经济](she-hui-zhu-yi-shi-chang-jing-ji/1994.8.19-jian-chi-she-hui-zhu-yi-fa-zhan-shi-chang-jing-ji.md)
+  * [1995.5.2 建立终身职业企业家队伍，推动建立现代企业制度的事业](she-hui-zhu-yi-shi-chang-jing-ji/1995.5.2-jian-li-zhong-shen-zhi-ye-qi-ye-jia-dui-wu-tui-dong-jian-li-xian-dai-qi-ye-zhi-du-de-shi-ye.md)
 
 ## 《中国特色的社会主义和智慧文明生产方式》 <a id="wisdom-civilization"></a>
 
