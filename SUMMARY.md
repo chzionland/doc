@@ -61,7 +61,7 @@
   * [1992.6.19 抓好大事——纪念《南德视界》100期](ru-shang-wen-hua/1992.6.19-zhua-hao-da-shi-ji-nian-nan-de-shi-jie-100-qi.md)
   * [1992.12《南德画报》序](ru-shang-wen-hua/1992.12-nan-de-hua-bao-xu.md)
   * [1993.1.29 逐步建立与社会主义市场经济，相适应的南德价值体系，把我们的事业进一步推向前进](ru-shang-wen-hua/1993.1.29-zhu-bu-jian-li-yu-she-hui-zhu-yi-shi-chang-jing-ji-xiang-kuo-ying-de-nan-de-jia-zhi-ti-xi.md)
-  * [1994.5.20 企业办学要有科学方法](ru-shang-wen-hua/1994.5.20-qi-ye-ban-xue-yao-you-ke-xue-fang-fa.md)
+  * [1994.5.20 企业办学要有科学方法](ru-shang-wen-hua/1994.5.20.md)
   * [1994.5 从“告别三峡”到“奔向太平洋”——五月旅游抒怀](ru-shang-wen-hua/1994.5-cong-gao-bie-san-xia-dao-ben-xiang-tai-ping-yang-wu-yue-lv-you-shu-huai.md)
   * [1994.6.18 AC米兰：你输掉的不仅仅是一分](ru-shang-wen-hua/1994.6.18-ac-mi-lan-ni-shu-diao-de-bu-jin-jin-shi-yi-fen.md)
   * [1994.8.1 商品社会离不开伦理道德](ru-shang-wen-hua/1994.8.1-shang-pin-she-hui-li-bu-kai-lun-li-dao-de.md)
