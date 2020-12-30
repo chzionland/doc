@@ -23,7 +23,6 @@
   * [1989.7 历史性的机会和我们的选择](zhong-meiejing-ji-da-san-jiao/1989.7-li-shi-xing-de-ji-hui-he-wo-men-de-xuan-ze.md)
   * [1993.6.8 为把满洲里建成东北亚经济中心城市而奋斗](zhong-meiejing-ji-da-san-jiao/1993.6.8-wei-ba-man-zhou-li-jian-cheng-dong-bei-ya-jing-ji-zhong-xin-cheng-shi-er-fen-dou.md)
   * [1993.8.18不可取代的经济战略要塞——满洲里](zhong-meiejing-ji-da-san-jiao/1993.8.18-bu-ke-qu-dai-de-jing-ji-zhan-lve-yao-sai-man-zhou-li.md)
-  * [1996.5.8中美俄经济大三角](zhong-meiejing-ji-da-san-jiao/1996.5.8-zhong-meiejing-ji-da-san-jiao.md)
   * [1993.10我的梦——华人“网络”经济，在全世界的兴起](zhong-meiejing-ji-da-san-jiao/1993.10-wo-de-meng-hua-ren-wang-luo-jing-ji-zai-quan-shi-jie-de-xing-qi.md)
   * [1994.2.26认清中美俄大三角的世界经济格局，争取在我国经济走向世界进程中发挥应有的作用](zhong-meiejing-ji-da-san-jiao/1994.2.26-ren-qing-zhong-meieda-san-jiao-de-shi-jie-jing-ji-ge-ju-zheng-qu-zai-wo-guo-jing-ji-zou-xi.md)
   * [94＇南德国际经济奥运热身赛——1995新年献辞](zhong-meiejing-ji-da-san-jiao/94-nan-de-guo-ji-jing-ji-ao-yun-re-shen-sai-1995-xin-nian-xian-ci.md)
@@ -33,6 +32,7 @@
   * [1996.1 新年寄语 — 南德经济大桥对接于一九九六](zhong-meiejing-ji-da-san-jiao/nan-de-jing-ji-da-qiao-dui-jie-yu-yi-jiu-jiu-liu-1996-nian-xin-nian-ji-yu.md)
   * [1996.2.20各走一段路](zhong-meiejing-ji-da-san-jiao/1996.2.20-ge-zou-yi-duan-lu.md)
   * [1996.2.22答美国记者问](zhong-meiejing-ji-da-san-jiao/1996.2.22-da-mei-guo-ji-zhe-wen.md)
+  * [1996.5.8中美俄经济大三角](zhong-meiejing-ji-da-san-jiao/1996.5.8-zhong-meiejing-ji-da-san-jiao.md)
 * [人才资本论](ren-cai-zi-ben-lun/README.md)
   * [1991.9.29人才就是资本](ren-cai-zi-ben-lun/1991.9.29-ren-cai-jiu-shi-zi-ben.md)
   * [1992.3.12我劝天公重抖擞 不拘一格降人才](ren-cai-zi-ben-lun/1992.3.12-wo-quan-tian-gong-zhong-dou-sou-bu-ju-yi-ge-jiang-ren-cai.md)
@@ -106,8 +106,14 @@
   * [2005.7 南德智慧经济试验报告（之二）](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/2005.7-nan-de-zhi-hui-jing-ji-shi-yan-bao-gao-zhi-er.md)
   * [2013.3 南德智慧经济试验报告（之三）](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/2013.3-nan-de-zhi-hui-jing-ji-shi-yan-bao-gao-zhi-san.md)
   * [2014.4 智慧文明生产方式及其发现过程](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/2014.4-zhi-hui-wen-ming-sheng-chan-fang-shi-ji-qi-fa-xian-guo-cheng.md)
+  * [智慧文明时代——开篇辞](wisdom-civilization/nan-de-shi-yan-zai-chu-fa-dai-xu/zhi-hui-wen-ming-shi-dai-kai-pian-ci.md)
 
 ## 业务介绍和项目案例
 
+* [《南德视界》复刊词](ye-wu-jie-shao-he-xiang-mu-an-li/nan-de-shi-jie-fu-kan-ci/README.md)
+  * [关于《南德视界》](ye-wu-jie-shao-he-xiang-mu-an-li/nan-de-shi-jie-fu-kan-ci/guan-yu-nan-de-shi-jie.md)
 * [《中俄两国“全面易货型经济”长江计划》](ye-wu-jie-shao-he-xiang-mu-an-li/zhongeliang-guo-quan-mian-yi-huo-xing-jing-ji-chang-jiang-ji-hua.md)
+* [南德集团商用卫星公司发展纪实](ye-wu-jie-shao-he-xiang-mu-an-li/nan-de-ji-tuan-shang-yong-wei-xing-gong-si-fa-zhan-ji-shi.md)
+* [南德集团满洲里开发纪实](ye-wu-jie-shao-he-xiang-mu-an-li/nan-de-ji-tuan-man-zhou-li-kai-fa-ji-shi.md)
+* [从“西瓜换化肥”到“飞天计划”](ye-wu-jie-shao-he-xiang-mu-an-li/cong-xi-gua-huan-hua-fei-dao-fei-tian-ji-hua.md)
 
