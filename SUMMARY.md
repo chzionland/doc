@@ -1,6 +1,8 @@
 # Table of contents
 
 * [南德档案馆](README.md)
+* [《南德视界》复刊词](nan-de-shi-jie-fu-kan-ci/README.md)
+  * [关于《南德视界》](nan-de-shi-jie-fu-kan-ci/guan-yu-nan-de-shi-jie.md)
 
 ## 《乐观的中国经济》- 牟其中演讲文集 <a id="optimistic-economy"></a>
 
@@ -110,8 +112,6 @@
 
 ## 业务介绍和项目案例
 
-* [《南德视界》复刊词](ye-wu-jie-shao-he-xiang-mu-an-li/nan-de-shi-jie-fu-kan-ci/README.md)
-  * [关于《南德视界》](ye-wu-jie-shao-he-xiang-mu-an-li/nan-de-shi-jie-fu-kan-ci/guan-yu-nan-de-shi-jie.md)
 * [《中俄两国“全面易货型经济”长江计划》](ye-wu-jie-shao-he-xiang-mu-an-li/zhongeliang-guo-quan-mian-yi-huo-xing-jing-ji-chang-jiang-ji-hua.md)
 * [南德集团商用卫星公司发展纪实](ye-wu-jie-shao-he-xiang-mu-an-li/nan-de-ji-tuan-shang-yong-wei-xing-gong-si-fa-zhan-ji-shi.md)
 * [南德集团满洲里开发纪实](ye-wu-jie-shao-he-xiang-mu-an-li/nan-de-ji-tuan-man-zhou-li-kai-fa-ji-shi.md)
